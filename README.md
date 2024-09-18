@@ -1,0 +1,2 @@
+# Multi-Class-and-Multi-Label-Classification-Using-SVM-and-K-Means-Clustering
+This project involves multi-class and multi-label classification using Support Vector Machines (SVM) and clustering using K-Means on the Anuran Calls (MFCCs) Data Set. The main objective is to solve the multi-label classification problem by training SVMs for each label and evaluating their performance using different metrics. 
